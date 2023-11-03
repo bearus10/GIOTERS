@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: #333;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p, h1, h2, h3 {
+    color: wheat;
+  }
+
+  div {
+    border: 2px solid #333;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #333;
+  }
+
+  #contact {
+    border: 2px solid #333;
+    background-color: #333;
+  }
+
+  #about {
+    border: 2px solid #333;
+    background-color: #333;
+  }
+
